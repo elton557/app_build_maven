@@ -1,4 +1,4 @@
-# Pipeline de CI/CD para Aplicação
+# Pipeline de CI/CD para Build Aplicação Maven
 
 Este pipeline está estruturado com múltiplos estágios que incluem a compilação, empacotamento e implantação da aplicação. Ele utiliza o Maven para a compilação e empacotamento e configura o proxy e o SonarQube para análise de qualidade.
 
